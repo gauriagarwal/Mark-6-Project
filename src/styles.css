@@ -1,0 +1,44 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+  margin: 0;
+}
+h1 {
+  color: white;
+  background: url("https://cdn.vox-cdn.com/thumbor/yJuBQtYK2euiOWE3lj_dtloWkvs=/160x0:1239x607/1600x900/cdn.vox-cdn.com/uploads/chorus_image/image/46708944/manyminions.0.jpg");
+  background-size: cover;
+  background-position: center;
+  padding: 40px;
+  margin: 0px;
+}
+h3 {
+  margin: 4px;
+}
+button {
+  color: black;
+  background: #f2c94c;
+  border: 1px solid;
+  padding: 12px;
+  border-radius: 4px;
+  font-size: 16px;
+  cursor: pointer;
+  margin: 12px;
+}
+p {
+  margin: 16px auto;
+  max-width: 400px;
+}
+textarea,
+#translation {
+  padding: 20px;
+  width: 300px;
+  height: 100px;
+  border-radius: 12px;
+}
+#translation {
+  margin: auto;
+  border: 1px solid black;
+}
+div {
+  margin-bottom: 40px;
+}
